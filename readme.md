@@ -11,10 +11,11 @@ Conditional Pix2Pix is an innovative architecture of GAN models that integrates 
 
 | Label | Input Image | Generated Image | Real Image |
 |-------|-------------|-----------------|------------|
-| jacket | ![Input Image 1](results/input1.png) | ![Generated Image 1](results/rse1.png) | ![Real Image 1](results/real1.png) |
-| jeans | ![Input Image 2](results/input2.png) | ![Generated Image 2](results/rse2.png) | ![Real Image 2](results/real2.png) |
-| suit | ![Input Image 3](results/input3.png) | ![Generated Image 3](results/res3.png) | ![Real Image 3](results/real3.png) |
-| suit | ![Input Image 4](results/input4.png) | ![Generated Image 4](results/res4.png) | ![Real Image 4](results/real4.png) |
+| jacket | ![Input Image 1](images/input1.png) | ![Generated Image 1](images/rse1.png) | ![Real Image 1](images/real1.png) |
+| jeans | ![Input Image 2](images/input2.png) | ![Generated Image 2](images/rse2.png) | ![Real Image 2](images/real2.png) |
+| suit | ![Input Image 3](images/input3.png) | ![Generated Image 3](images/res3.png) | ![Real Image 3](images/real3.png) |
+| suit | ![Input Image 4](images/input4.png) | ![Generated Image 4](images/res4.png) | ![Real Image 4](images/real4.png) |
+
 
 
 ## Getting started with the Training 
