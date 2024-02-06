@@ -8,6 +8,8 @@
 Conditional Pix2Pix is an innovative architecture of GAN models that integrates the Pix2Pix GAN and CGAN techniques. This fusion allows the model to generate images based on both an input image and accompanying labels. The generated image closely resembles the input image but incorporates specified changes outlined by the provided labels. This approach opens up new possibilities for image generation tasks by leveraging conditional information to guide the generation process effectively
 
 ## Example
+The quality of the generated images may not be optimal due to limitations in the training data quality and duration. It's essential to carefully select high-quality training data and train the model for an adequate duration to achieve better results.
+
 
 | Label | Input Image | Generated Image | Real Image |
 |-------|-------------|-----------------|------------|
