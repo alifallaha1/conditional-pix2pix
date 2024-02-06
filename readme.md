@@ -11,12 +11,12 @@ Conditional Pix2Pix is an innovative architecture of GAN models that integrates 
 The quality of the generated images may not be optimal due to limitations in the training data quality and duration. It's essential to carefully select high-quality training data and train the model for an adequate duration to achieve better results.
 
 
-| Label | Input Image | Generated Image | Real Image |
+| Label | Input Image | Target Image | Generated Image | 
 |-------|-------------|-----------------|------------|
-| jacket | ![Input Image 1](images/input1.png) | ![Generated Image 1](images/rse1.png) | ![Real Image 1](images/real1.png) |
-| jeans | ![Input Image 2](images/input2.png) | ![Generated Image 2](images/rse2.png) | ![Real Image 2](images/real2.png) |
-| suit | ![Input Image 3](images/input3.png) | ![Generated Image 3](images/res3.png) | ![Real Image 3](images/real3.png) |
-| suit | ![Input Image 4](images/input4.png) | ![Generated Image 4](images/res4.png) | ![Real Image 4](images/real4.png) |
+| jacket | ![Input Image 1](images/input1.png) |![Target Image 1](images/real1.png) | ![Generated Image 1](images/rse1.png) | 
+| jeans | ![Input Image 2](images/input2.png) |![Target Image 2](images/real2.png) | ![Generated Image 2](images/rse2.png) | 
+| suit | ![Input Image 3](images/input3.png) | ![Target Image 3](images/real3.png) | ![Generated Image 3](images/res3.png) | 
+| suit | ![Input Image 4](images/input4.png) |  ![Target Image 4](images/real4.png) | ![Generated Image 4](images/res4.png) |
 
 
 
